@@ -10,4 +10,6 @@
 * [朱恺强的案例](zhu-kai-qiang-de-an-li.md)
 * [左贤达的个人报告](zuo-xian-da-de-ge-ren-bao-gao.md)
 * [左贤达的案列](zuo-xian-da-de-an-lie.md)
+* [朱镕浩的个人报告](zhu-rong-hao-de-ge-ren-bao-gao.md)
+* [朱镕浩的案列](zhu-rong-hao-de-an-lie.md)
 
