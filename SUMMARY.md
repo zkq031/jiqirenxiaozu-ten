@@ -9,5 +9,5 @@
 * [朱恺强的个人报告](zhu-kai-qiang-de-ge-ren-bao-gao.md)
 * [朱恺强的案例](zhu-kai-qiang-de-an-li.md)
 * [左贤达的个人报告](zuo-xian-da-de-ge-ren-bao-gao.md)
-* 左贤达的案列
+* [左贤达的案列](zuo-xian-da-de-an-lie.md)
 
