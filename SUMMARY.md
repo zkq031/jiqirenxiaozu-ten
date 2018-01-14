@@ -6,4 +6,6 @@
 * [周睿思的案例](zhou-rui-si-de-an-li.md)
 * [朱鹏臣的个人报告](zhu-peng-chen-de-ge-ren-bao-gao.md)
 * [朱鹏臣的案例](zhu-peng-chen-de-an-li.md)
+* [朱恺强的个人报告](zhu-kai-qiang-de-ge-ren-bao-gao.md)
+* 朱恺强的案例
 
